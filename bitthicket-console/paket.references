@@ -1,0 +1,8 @@
+FSharp.Core
+Argu
+Destructurama.FSharp.NetCore
+Microsoft.Extensions.Configuration
+NetEscapades.Configuration.Yaml
+Serilog
+Serilog.Settings.Configuration
+Serilog.Sinks.Console

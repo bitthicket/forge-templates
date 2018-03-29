@@ -7,7 +7,8 @@
         { "name": "FsLab Basic", "value": "fslabbasic" },
         { "name": "FsLab Journal", "value": "fslabjournal" },
         { "name": "Nancy Selfhosted", "value": "nancyselfhosted" },
-	    { "name": "Fable", "value": "fable" }
+        { "name": "Fable", "value": "fable" },
+        { "name": "Bit Thicket Console", "value": "bitthicket-console" }
     ],
     "Files": [
         {"name": "F# Module", "value": "fs", "extension": "fs"},
